@@ -1,0 +1,14 @@
+Package: avayaECH
+Type: Package
+Title: Process AVAYA CMS ECH DATA
+Version: 0.1.0
+Author: AVAYA EPA
+Maintainer: Oliver Huber <huberoliver@avaya.com>
+Description: This package supplies functions to analyze ECH log data from AVAYA
+    CMS systems. Currently only CMS version R17
+License: CCO
+Encoding: UTF-8
+LazyData: true
+Imports:
+    readr
+RoxygenNote: 5.0.1
